@@ -1,0 +1,19 @@
+{
+  "name": "18",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.hmtl"
+  },
+  "author": "Diego",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "core-js": "^3.38.1",
+    "parcel": "^2.12.0",
+    "regenerator-runtime": "^0.14.1"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0"
+  }
+}
